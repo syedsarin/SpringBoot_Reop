@@ -11,8 +11,8 @@ public class AppTest {
 	@Test
 	public void testWithPositves() {
 		Arethmetic ar = new Arethmetic();
-		int expected =40;
-		int actaul = ar.doSum(20, 20);
+		int expected =50;
+		int actaul = ar.doSum(30, 20);
 		assertEquals(expected, actaul);
 	}
 	
