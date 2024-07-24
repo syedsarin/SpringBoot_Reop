@@ -17,6 +17,7 @@ public class AirportController {
 		map.put("Attribute1", "Value1");
 		map.put("SystemDate", new Date());
 		map.put("Counter3", "Spicejet");
+		System.out.println("Com");
 		//lvn
 		return "operate";
 	}
