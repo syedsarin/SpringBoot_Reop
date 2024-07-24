@@ -1,12 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
-</head>
-<body>
+<%@page isELIgnored="false"%>
+<h1 style="color: green; text-align: center; ">Welcome To Airport Management Services</h1>
 
-</body>
-</html>
+Model attribute names :: ${Attribute1}, ${SystemDate}, ${Counter3}
